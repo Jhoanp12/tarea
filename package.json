@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "build": "^0.1.4"
+  },
+  "name": "hola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server -p 8888"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
